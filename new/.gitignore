@@ -5,9 +5,7 @@
 /.pnp
 .pnp.js
 .new/package-lock.json
-new/package.json
-new/src/setupTests.js
-new/src/reportWebVitals.js
+
 # testing
 /coverage
 
