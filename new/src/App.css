@@ -33,3 +33,6 @@
 .pTagII span {
   color: #c1c4cd;
 }
+.iconHover:hover {
+  color: #0466c8;
+}

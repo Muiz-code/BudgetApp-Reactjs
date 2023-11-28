@@ -104,9 +104,9 @@ function App() {
               fontSize="14px"
               mt="2"
             >
-              <p className="pTag">Amount spent so far</p>
+              <p>Amount spent so far</p>
               <p className="pTagI">
-                ₦50,000<span color="#67A2DC">/₦120,000</span>
+                ₦50,000<span>/₦120,000</span>
               </p>
             </Box>
           </Box>
@@ -213,6 +213,7 @@ function App() {
             flexDirection="column"
             justifyContent="center"
             alignItems="center"
+            className="iconHover"
           >
             <Box fontSize="3xl">
               <IoHomeOutline />
@@ -226,6 +227,7 @@ function App() {
             flexDirection="column"
             justifyContent="center"
             alignItems="center"
+            className="iconHover"
           >
             <Box fontSize="3xl">
               <TbFileReport />
@@ -239,6 +241,7 @@ function App() {
             flexDirection="column"
             justifyContent="center"
             alignItems="center"
+            className="iconHover"
           >
             <Box fontSize="3xl">
               <SiGooglechat />
@@ -252,6 +255,7 @@ function App() {
             flexDirection="column"
             justifyContent="center"
             alignItems="center"
+            className="iconHover"
           >
             <Box fontSize="3xl">
               <LiaChartBarSolid />
@@ -265,6 +269,7 @@ function App() {
             flexDirection="column"
             justifyContent="center"
             alignItems="center"
+            className="iconHover"
           >
             <Box fontSize="3xl">
               <IoPersonOutline />
